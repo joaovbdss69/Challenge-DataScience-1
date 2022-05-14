@@ -37,22 +37,34 @@ para tomada de decisões.
 ## 🗑️ Limpeza dos Dados
 
 - Extração dos dados do Json para colunas
+![image](https://user-images.githubusercontent.com/105249003/168425489-3cb2709e-b0ed-49c1-9567-49a5e6204ab6.png)
 
 - Padronização e tradução das colunas
+![image](https://user-images.githubusercontent.com/105249003/168425543-73dce6b2-f3cc-4425-92a1-c6f8427b6e17.png)
 
-- Busca de valores null ou vazios
+- Busca de valores null ou vazios e Substituição dos mesmos
+![image](https://user-images.githubusercontent.com/105249003/168425561-51b8177d-12a9-41b3-9a3c-4ac0cdd9cb81.png)
+
+![image](https://user-images.githubusercontent.com/105249003/168425611-0e5bd83b-74f3-4d9b-b9cd-59b454e32b95.png)
 
 - Alteração dos tipos das tabelas
+![image](https://user-images.githubusercontent.com/105249003/168425629-60535330-0054-431f-a2fa-8ff848462921.png)
 
 ## 🌎 Tratativa e Criações na base de dados
 
 - Tradução dos dados
+ 
+ * ![image](https://user-images.githubusercontent.com/105249003/168427617-276d4344-3eec-4250-9781-a81bc4f88279.png)
+
 
 - Criar coluna de contas diárias
+![image](https://user-images.githubusercontent.com/105249003/168427702-9269fe79-3395-4931-ab5e-00b4a22b1860.png)
 
-- Validando os valores da coluna gastoTotal
 
 ## 🔍 Análise Exploratória
+![image](https://user-images.githubusercontent.com/105249003/168427564-c91a9466-5fd6-43ed-a631-f77c3ed5f067.png)
+![image](https://user-images.githubusercontent.com/105249003/168427572-5e9c72e2-25fe-4644-8ebb-983c931baa38.png)
+
 - 📍 Tipo de dados no dataset
 
     - 📍 Dados Quantitativos: São números que representam contagens ou medidas (renda e anos de escolaridade,por exemplo). Esses dados se dividem em discretos e contínuos:
