@@ -16,7 +16,7 @@ para tomada de decisões.
     - Analisar quais os tipos de dados ✔️
     - Verificar quais são as inconsistências nos dados ✔️
     - Corrigir as inconsistências nos dados ✔️
-    - Traduzir as colunas 
+    - Traduzir as colunas ✔️
     - Criar coluna de contas diárias ✔️
 
 - Semana 2
