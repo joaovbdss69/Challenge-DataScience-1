@@ -1,5 +1,5 @@
 
-# Challenge Data Science Semana 1
+# Challenge Data Science
 
 Esse desafio é uma simulação de atividades do dia a dia de um profissional na área de Data
 Science,o desafio consiste em tratar e modelar uma base de dados, para assim criar modelos e gráficos
